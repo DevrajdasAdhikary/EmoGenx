@@ -1,2 +1,2 @@
 # EmoGenx
-Modeled 12-way Emotion detection as a generation task for decoder-based transformer models like GPT-2
+Fine-tuned transformer models such as GPT-2, T5, BART on the dataset to detect fine-grained and subtle emotion from generation output directly
